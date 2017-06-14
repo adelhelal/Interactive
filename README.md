@@ -1,5 +1,5 @@
 # Interactive
-Provides different means of communicating to your machine using mulitple forms of gesturing
+Provides different means of communicating with your machine using mulitple forms of gesturing
 ## Hand and Body Gesturing
 Using the XBOX Kinect 2.0 sensor allows the ability to make hand and body gestures to perform tasks.
 ## Mouse Control
