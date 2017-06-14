@@ -1,0 +1,16 @@
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\bin\Release\Interactive.exe.config
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\bin\Release\Interactive.exe
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\bin\Release\Interactive.pdb
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\bin\Release\Microsoft.Kinect.dll
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\bin\Release\Microsoft.Speech.dll
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\bin\Release\Microsoft.Kinect.xml
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Main.g.cs
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\App.g.cs
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Interactive_MarkupCompile.cache
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Interactive_MarkupCompile.lref
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Main.baml
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Interactive.g.resources
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Interactive.Properties.Resources.resources
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Interactive.csproj.GenerateResource.Cache
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Interactive.exe
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\Interactive\Interactive\obj\Release\Interactive.pdb

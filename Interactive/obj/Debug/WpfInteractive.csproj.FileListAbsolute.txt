@@ -1,0 +1,16 @@
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\bin\Debug\WpfInteractive.exe.config
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\bin\Debug\WpfInteractive.exe
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\bin\Debug\WpfInteractive.pdb
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\bin\Debug\Microsoft.Kinect.dll
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\bin\Debug\Microsoft.Kinect.xml
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\WpfInteractive.csprojResolveAssemblyReference.cache
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\MainWindow.g.cs
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\App.g.cs
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\WpfInteractive_MarkupCompile.cache
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\WpfInteractive_MarkupCompile.lref
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\MainWindow.baml
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\WpfInteractive.g.resources
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\WpfInteractive.Properties.Resources.resources
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\WpfInteractive.csproj.GenerateResource.Cache
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\WpfInteractive.exe
+C:\Users\adelh\Google Drive\Work\DotNet\Kinect\WpfInteractive\WpfInteractive\obj\Debug\WpfInteractive.pdb
